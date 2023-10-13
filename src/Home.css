@@ -1,0 +1,22 @@
+.ucoming-events {
+    background-color: #f4f4fc;
+}
+.most-visited-places {
+    background-color: #f4f4fc;
+}
+.hidden {
+    display: none;
+}
+
+
+.filter-option {
+    border: none;
+    background-color: transparent;
+  }
+  
+  /* Add styles for the active button */
+  .filter-option.active {
+   
+    background-color: #e86c60;
+    color: #fff; 
+  }

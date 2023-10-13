@@ -1,0 +1,39 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "Kite Fastival",
+      "location": "Surat"
+    },
+    {
+      "id": "2",
+      "title": "Garba",
+      "location": "Ahemadabad"
+    },
+    {
+      "id": "3",
+      "title": "Ganesh Mahotsav",
+      "location": "Ahemadabad"
+    },
+    {
+      "id": "5",
+      "title": "Holi",
+      "location": "Mathura"
+    },
+    {
+      "title": "Shiv Ratri",
+      "location": "Ujjen",
+      "id": "Ynzs8c9"
+    },
+    {
+      "title": "Diwali",
+      "location": "India",
+      "id": "n5cNUMj"
+    },
+    {
+      "title": "Yash",
+      "location": "Neha",
+      "id": "KO7laIf"
+    }
+  ]
+}

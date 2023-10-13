@@ -1,0 +1,9 @@
+.create-page .create-first{
+    background-image: url('vegeta.jpg');
+    height: 25vh;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
