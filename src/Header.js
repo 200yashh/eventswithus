@@ -9,7 +9,7 @@ const Header = () => {
         </button>
         <div className="collapse navbar-collapse d-flex justify-content-end" id="navbarNavAltMarkup">
           <div className="navbar-nav ">
-            <Link className="nav-item nav-link active" to="/">Home</Link>
+            <Link className="nav-item nav-link"activeClassName="active" exact to="/">Home</Link>
             <Link className="nav-item nav-link" to="/events">Events</Link>
             <Link className="nav-item nav-link" to="/add-events">Add Events</Link>
             <Link className="nav-item nav-link" to="/about">About us</Link>
